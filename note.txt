@@ -1,0 +1,25 @@
+AUTOMATION TEST PROCESS
+----------------------
+1. Depend on customer's requirement to select Test Tool.
+
+2. Define scope of automation. (define when use automation test, when not)
+
+3.Planning design & development [write test scripts, develope test suites]
+
+4. Test execution
+
+5. Maintenance
+
+----
+Approches to test automation
+Graphical User interface + framework approach (Keyword-driven framework & Hybrid Testing Framework)
+------------------
+Tiêu chí chọn automation tool:
+- Hỗ trợ nhiều platform và browsers
+- Cộng động lớn
+- Chi phí hợp lý
+- Hỗ trợ tương tác database
+- Hỗ trợ nhiều ngôn ngữ code
+
+----------------
+BTVN: Cai git/sourcetree/tao tk github/ push code len Git/share repository len fb group
